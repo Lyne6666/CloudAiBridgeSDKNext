@@ -1,2 +1,1 @@
-# CloudAiBridgeSDKNext
-Advanced CloudAiBridgeSDKNext project
+.
